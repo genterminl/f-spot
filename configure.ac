@@ -319,6 +319,7 @@ src/AssemblyInfo.cs
 src/Makefile
 src/Core/Makefile
 src/Core/FSpot/Makefile
+src/Core/FSpot.Database/Makefile
 src/Core/FSpot/FSpot.dll.config
 src/Core/FSpot/Settings/Defines.cs
 src/Core/FSpot.Core.UnitTest/Makefile
